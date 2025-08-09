@@ -1,5 +1,5 @@
 # OpenCV With WebCam Template
-ブラウザ上でWebCameraの画像をOpenCVで処理してゴニョゴニョするテンプレート
+ブラウザ上でWebCameraの画像をOpenCVで処理するテンプレート
 <br>
 Template for processing WebCamera images in the web browser with OpenCV
 
